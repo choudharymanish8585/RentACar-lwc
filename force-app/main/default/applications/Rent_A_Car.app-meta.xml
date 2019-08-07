@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#EA6F00</headerColor>
+        <logo>rentacar</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>A hassle-free way to rent a car. Just select your car, find the current location and you are done.</description>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Rent A Car</label>
+    <navType>Standard</navType>
+    <tabs>Rent_A_Car</tabs>
+    <tabs>Car__c</tabs>
+    <tabs>standard-Contact</tabs>
+    <tabs>Car_Experience__c</tabs>
+    <tabs>Car_Type__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Rent_A_Car_UtilityBar</utilityBar>
+</CustomApplication>

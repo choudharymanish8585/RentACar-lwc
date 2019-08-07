@@ -1,0 +1,53 @@
+<template>
+    <template if:false={hasExperiences}>
+        <p>No Experience Posted For This Car</p>
+    </template>
+    <template if:true={hasExperiences}>
+        <div style="height: 300px; overflow: overlay;">
+            <template for:each={carExperiences} for:item="carExp">
+                <div class="slds-feed" key={carExp.Id}>
+                    <ul class="slds-feed__list">
+                        <li class="slds-feed__item">
+                            <article class="slds-post">
+                                <header class="slds-post__header slds-media">
+                                    <div class="slds-media__figure">
+                                        <a href="javascript:void(0);"
+                                            class="slds-avatar slds-avatar_circle slds-avatar_large">
+
+                                            <!-- Displaying user photo -->
+                                            <img alt={carExp.CreatedBy.Name} src={carExp.CreatedBy.SmallPhotoUrl}
+                                                title={carExp.CreatedBy.Name} />
+
+                                        </a>
+                                    </div>
+                                    <div class="slds-media__body">
+                                        <div class="slds-grid slds-grid_align-spread slds-has-flexi-truncate">
+                                            <p>
+                                                <!-- Displaying user name and company name -->
+                                                <a href="javascript:void(0);" data-userid={carExp.CreatedBy.Id}
+                                                    onclick={userClickHandler}>{carExp.CreatedBy.Name}</a> —
+                                                {carExp.CreatedBy.CompanyName}</p>
+                                        </div>
+                                        <p class="slds-text-body_small">
+                                            <lightning-formatted-date-time value={carExp.CreatedDate}>
+                                            </lightning-formatted-date-time>
+                                        </p>
+                                    </div>
+                                </header>
+                                <div class="slds-post__content slds-text-longform">
+                                    <!-- Displaying the title -->
+                                    <p class="slds-text-title_caps">{carExp.Name}</p>
+                                    <p class="slds-text-body_small">
+                                        <!-- Displaying experince inside a formattedRichText -->
+                                        <lightning-formatted-rich-text value={carExp.Experience__c}>
+                                        </lightning-formatted-rich-text>
+                                    </p>
+                                </div>
+                            </article>
+                        </li>
+                    </ul>
+                </div>
+            </template>
+        </div>
+    </template>
+</template>

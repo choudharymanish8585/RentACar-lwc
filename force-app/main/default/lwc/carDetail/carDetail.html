@@ -1,0 +1,40 @@
+<template>
+    <lightning-card title={carName} icon-name="utility:setup_assistant_guide">
+        <div slot="actions">
+            <lightning-button label="Full Details" onclick={fullDetails}></lightning-button>
+        </div>
+
+        <lightning-layout multiple-rows>
+            <lightning-layout-item size="12" small-device-size="6" medium-device-size="6" large-device-size="6">
+                <div class="slds-p-horizontal_small">
+                    <div class="carproperty">
+                        <span class="label">Owner Name:</span>
+                        <lightning-formatted-text value={ownerName}></lightning-formatted-text>
+                    </div>
+                    <div class="carproperty">
+                        <span class="label">Type:</span>
+                        <lightning-formatted-text value={type}> </lightning-formatted-text>
+                    </div>
+                    <div class="carproperty">
+                        <span class="label">Build Year:</span>
+                        <lightning-formatted-number value={buildYear}></lightning-formatted-number>
+                    </div>
+                    <div class="carproperty">
+                        <span class="label">Per Day Rent:</span>
+                        <lightning-formatted-number value={perDayRent} currency-code="USD"></lightning-formatted-number>
+                    </div>
+                    <div class="carproperty">
+                        <span class="label">Mileage:</span>
+                        <lightning-formatted-number value={mileage}></lightning-formatted-number>
+                    </div>
+                </div>
+            </lightning-layout-item>
+            <lightning-layout-item size="12" small-device-size="6" medium-device-size="6" large-device-size="6">
+
+                <img src={pictureUrl} class="car slds-align_absolute-center" alt="Car Picture" />
+            </lightning-layout-item>
+        </lightning-layout>
+
+
+    </lightning-card>
+</template>
