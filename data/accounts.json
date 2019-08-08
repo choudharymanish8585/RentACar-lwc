@@ -1,0 +1,11 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Account",
+        "referenceId": "LightningTraining"
+      },
+      "name": "Lightning Training"
+    }
+  ]
+}

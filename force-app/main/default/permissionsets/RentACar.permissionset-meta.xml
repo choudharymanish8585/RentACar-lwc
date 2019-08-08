@@ -199,4 +199,8 @@
         <tab>Car__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
+    <tabSettings>
+        <tab>Rent_A_Car</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>

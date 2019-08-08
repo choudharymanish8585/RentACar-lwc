@@ -1,0 +1,242 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "MarutiEeco"
+      },
+      "name": "Maruti Eeco",
+	   "Contact__c": "@DeviPradeep",
+	  "Car_Type__c": "@Van",
+	  "Build_Year__c": 2018,
+	  "Description__c": "",
+	  "Picture__c": "/resource/cars/van/maruti_suzuki_eeco.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 14.547859,
+    "Geolocation__longitude__s": 74.318841,
+    "Mileage__c": 20,
+    "Per_Day_Rent__c": 60
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "FordMustang"
+      },
+      "name": "Ford Mustang",
+     "Contact__c": "@ManishChoudhari",
+    "Car_Type__c": "@Luxury",
+    "Build_Year__c": 2016,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/luxury/ford_mustang.jpeg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 33.8688200,
+    "Geolocation__longitude__s": 151.2092960,
+    "Mileage__c": 8,
+    "Per_Day_Rent__c": 260
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "MercedesBenz"
+      },
+      "name": "Mercedes Benz",
+     "Contact__c": "@KarthikMurari",
+    "Car_Type__c": "@Luxury",
+    "Build_Year__c": 2006,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/luxury/mercedes_benz_gls.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 30.7333150,
+    "Geolocation__longitude__s": 76.7794180,
+    "Mileage__c": 6,
+    "Per_Day_Rent__c": 170
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "HyundaiXcent"
+      },
+      "name": "Hyundai Xcent",
+     "Contact__c": "@SunilChoudhary",
+    "Car_Type__c": "@Compact",
+    "Build_Year__c": 2016,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/compact/hyundai_xcent_car.png",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 15.6846890,
+    "Geolocation__longitude__s": 73.7032840,
+    "Mileage__c": 16,
+    "Per_Day_Rent__c": 100
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "JaguarF"
+      },
+      "name": "Jaguar F",
+     "Contact__c": "@AnandVardhan",
+    "Car_Type__c": "@Sports",
+    "Build_Year__c": 2008,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/sports/Jaguar_F_type_Coupe.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 26.4499230,
+    "Geolocation__longitude__s": 80.3318740,
+    "Mileage__c": 8,
+    "Per_Day_Rent__c": 180
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "HyundaiVerna"
+      },
+      "name": "Hyundai Verna",
+     "Contact__c": "@AnkitBadhani",
+    "Car_Type__c": "@Compact",
+    "Build_Year__c": 2016,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/compact/hyundai_verna.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 32.2396320,
+    "Geolocation__longitude__s": 77.1887150,
+    "Mileage__c": 14,
+    "Per_Day_Rent__c": 130
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "TataVenture"
+      },
+      "name": "Tata Venture",
+     "Contact__c": "@DhruvBhatia",
+    "Car_Type__c": "@Van",
+    "Build_Year__c": 2009,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/van/tata_venture.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 13.0826800,
+    "Geolocation__longitude__s": 80.2707180,
+    "Mileage__c": 19,
+    "Per_Day_Rent__c": 50
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "BMWi8"
+      },
+      "name": "BMW i8",
+     "Contact__c": "@VelavanSivaswamy",
+    "Car_Type__c": "@Sports",
+    "Build_Year__c": 2013,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/sports/BMW_i8.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 15.6846890,
+    "Geolocation__longitude__s": 73.7032840,
+    "Mileage__c": 13,
+    "Per_Day_Rent__c": 200
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "ToyotaLandCruiser"
+      },
+      "name": "Toyota Land Cruiser",
+     "Contact__c": "@SudhakarNuvuluri",
+    "Car_Type__c": "@Luxury",
+    "Build_Year__c": 2012,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/luxury/toyota_land_cruiser_prado.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 12.9715990,
+    "Geolocation__longitude__s": 77.5945630,
+    "Mileage__c": 9,
+    "Per_Day_Rent__c": 230
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "SuzukiDzire"
+      },
+      "name": "Suzuki Dzire",
+     "Contact__c": "@SharathKumar",
+    "Car_Type__c": "@Compact",
+    "Build_Year__c": 2014,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/compact/suzuki_dzire.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 17.3850440,
+    "Geolocation__longitude__s": 78.4866710,
+    "Mileage__c": 20,
+    "Per_Day_Rent__c": 90
+    },
+    {
+       "attributes": {
+        "type": "Car__c",
+        "referenceId": "RangeRover"
+      },
+      "name": "Range Rover",
+     "Contact__c": "@AshishSharma",
+    "Car_Type__c": "@Luxury",
+    "Build_Year__c": 2012,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/luxury/toyota_land_cruiser_prado.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 28.7040590,
+    "Geolocation__longitude__s": 77.1024900,
+    "Mileage__c": 9,
+    "Per_Day_Rent__c": 30
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "AudiA8"
+      },
+      "name": "Audi A8",
+     "Contact__c": "@ShivaniChoudhary",
+    "Car_Type__c": "@Sports",
+    "Build_Year__c": 2015,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/sports/Audi_R8_V10_Plus.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 18.5204300,
+    "Geolocation__longitude__s": 73.8567440,
+    "Mileage__c": 10,
+    "Per_Day_Rent__c": 210
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "MarutiOmni"
+      },
+      "name": "Maruti Omni",
+     "Contact__c": "@PrabhdeepKaur",
+    "Car_Type__c": "@Van",
+    "Build_Year__c": 2008,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/van/maruti_omni_mileage.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 25.5940950,
+    "Geolocation__longitude__s": 85.1375650,
+    "Mileage__c": 22,
+    "Per_Day_Rent__c": 50
+    },
+    {
+      "attributes": {
+        "type": "Car__c",
+        "referenceId": "Toyota Etios"
+      },
+      "name": "Toyota Etios",
+     "Contact__c": "@PriyankaMonga",
+    "Car_Type__c": "@Compact",
+    "Build_Year__c": 2013,
+    "Description__c": "",
+    "Picture__c": "/resource/cars/compact/toyota_etios.jpg",
+    "Available_For_Rent__c": true,
+    "Geolocation__latitude__s": 29.3803040,
+    "Geolocation__longitude__s": 79.4635660,
+    "Mileage__c": 19,
+    "Per_Day_Rent__c": 90
+    }
+  ]
+}

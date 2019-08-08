@@ -1,0 +1,158 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "DeviPradeep"
+      },
+      "Salutation": "Mr.",
+	   "FirstName": "Devi Pradeep",
+	  "LastName": "Naredla",
+	  "AccountId": "@LightningTraining",
+	  "Email": "testcontact1@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ManishChoudhari"
+      },
+      "Salutation": "Mr.",
+     "FirstName": "Manish",
+    "LastName": "Choudhari",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact2@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "KarthikMurari"
+      },
+      "Salutation": "Mr.",
+     "FirstName": "Karthik",
+    "LastName": "Murari",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact3@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "VelavanSivaswamy"
+      },
+      "Salutation": "Mr.",
+     "FirstName": "Velavan",
+    "LastName": "Sivaswamy",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact4@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "SunilChoudhary"
+      },
+      "Salutation": "Mr.",
+     "FirstName": "Sunil",
+    "LastName": "Choudhary",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact5@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "AnandVardhan"
+      },
+      "Salutation": "Mr.",
+     "FirstName": "Anand",
+    "LastName": "Vardhan",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact6@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "AnkitBadhani"
+      },
+      "Salutation": "Mr.",
+     "FirstName": "Ankit",
+    "LastName": "Badhani",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact7@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "DhruvBhatia"
+      },
+      "Salutation": "Mr.",
+     "FirstName": "Dhruv",
+    "LastName": "Bhatia",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact8@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "SudhakarNuvuluri"
+      },
+      "Salutation": "Mr.",
+     "FirstName": "Sudhakar",
+    "LastName": "Nuvuluri",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact9@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "AshishSharma"
+      },
+      "Salutation": "Mr.",
+     "FirstName": "Ashish",
+    "LastName": "Sharma",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact10@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "SharathKumar"
+      },
+      "Salutation": "Mr.",
+     "FirstName": "Sharath",
+    "LastName": "Kumar",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact11@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "ShivaniChoudhary"
+      },
+      "Salutation": "Ms.",
+     "FirstName": "Shivani",
+    "LastName": "Choudhary",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact12@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "PrabhdeepKaur"
+      },
+      "Salutation": "Ms.",
+     "FirstName": "Prabhdeep",
+    "LastName": "Kaur",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact13@lightning.com"
+    },
+    {
+      "attributes": {
+        "type": "Contact",
+        "referenceId": "PriyankaMonga"
+      },
+      "Salutation": "Ms.",
+     "FirstName": "Priyanka",
+    "LastName": "Monga",
+    "AccountId": "@LightningTraining",
+    "Email": "testcontact14@lightning.com"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Car_Type__c",
+        "referenceId": "Van"
+      },
+      "name": "Van"
+    },
+    {
+      "attributes": {
+        "type": "Car_Type__c",
+        "referenceId": "Sports"
+      },
+      "name": "Sports"
+    },
+    {
+      "attributes": {
+        "type": "Car_Type__c",
+        "referenceId": "Luxury"
+      },
+      "name": "Luxury"
+    },
+    {
+      "attributes": {
+        "type": "Car_Type__c",
+        "referenceId": "Compact"
+      },
+      "name": "Compact"
+    }
+  ]
+}
